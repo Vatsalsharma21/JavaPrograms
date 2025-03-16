@@ -1,6 +1,6 @@
 # 🚀 Practice Solutions
 
-This repository contains my solutions to various Java problems I see on **LeetCode** or **HackerRack** problems, implemented in **Java, Python, and JavaScript**. The goal is to improve problem-solving skills and understand different algorithms and data structures.
+This repository contains my solutions to various Java problems I see on **LeetCode** or **HackerRack** problems, implemented in **Java**. The goal is to improve problem-solving skills and understand different algorithms and data structures.
 All the credits for the problem statements go to the respective platforms, I am just using this repository to store my practice solutions.
 
 ---
