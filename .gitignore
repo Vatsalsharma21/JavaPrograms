@@ -1,0 +1,8 @@
+# Ignore IDE and OS files
+*.iml
+.idea/
+.vscode/
+*.log
+
+# Ignore Maven build out
+target/

@@ -1,3 +1,0 @@
-Input : src/usr/vatsal/./sports/cricket/../../movies/thor/blond/../../batman
-output : src/usr/vatsal/movies/batman
-
